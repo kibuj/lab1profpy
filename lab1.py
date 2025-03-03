@@ -1,4 +1,4 @@
-import numpy as np
+from main import np
 
 def first_ex(x):
     f_x = x * np.log(x)
