@@ -1,4 +1,4 @@
-from main import random
+from lab5 import random
 
 def first_list(x):
     list_a = []
