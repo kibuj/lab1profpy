@@ -1,4 +1,4 @@
-from lab5 import np
+import numpy as np
 
 def compute_y(t):
     if 2.3 <= t <= 7.2:
