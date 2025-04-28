@@ -23,4 +23,3 @@ for i in range(n):
 
 for j in students:
     j.get_average_mark()
-
