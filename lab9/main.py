@@ -32,7 +32,7 @@ def sorted_list_by_score(filename):
             print(x)
             if len(x) >= 5:
                 score_list.append(float(x[4]))
-            print(score_list)
+            print(sorted(score_list))
 
 reader("file.txt")
 append_student("file.txt","Креховецький Богдан Миколайович", 4.3 )
